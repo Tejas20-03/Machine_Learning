@@ -20,5 +20,5 @@ Install the dependencies: pip install pandas scikit-learn
 Run the recommendation_system.py file: python recommendation_system.py
 Follow the prompts to input your viewing history and preferences
 The model will output a list of recommended movies based on your input
-Contributing
+## Contributing
 If you would like to contribute to the project, please fork the repository and submit a pull request.
